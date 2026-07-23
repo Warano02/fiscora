@@ -1,0 +1,15 @@
+{
+  "title": "Industries",
+  "description": "Sector-specific expertise tailored to the unique challenges of your business.",
+  "heading": "Industries",
+  "items": {
+    "healthcare": "Healthcare",
+    "construction": "Construction",
+    "restaurants": "Restaurants",
+    "retail": "Retail",
+    "technology": "Technology",
+    "ecommerce": "E-commerce",
+    "liberal-professions": "Liberal Professions",
+    "associations": "Associations"
+  }
+}

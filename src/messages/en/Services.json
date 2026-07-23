@@ -1,0 +1,14 @@
+{
+  "title": "Our Services",
+  "description": "Comprehensive support in accounting, tax, payroll and financial consulting, tailored to every business.",
+  "heading": "Our Services",
+  "items": {
+    "accounting": "Accounting",
+    "tax-advisory": "Tax Advisory",
+    "payroll": "Payroll",
+    "business-creation": "Business Creation",
+    "audit": "Audit",
+    "financial-consulting": "Financial Consulting",
+    "legal-assistance": "Legal Assistance"
+  }
+}

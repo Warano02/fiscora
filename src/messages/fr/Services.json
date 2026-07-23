@@ -1,0 +1,14 @@
+{
+  "title": "Nos services",
+  "description": "Un accompagnement complet en comptabilité, fiscalité, paie et conseil financier, adapté à chaque entreprise.",
+  "heading": "Nos services",
+  "items": {
+    "accounting": "Comptabilité",
+    "tax-advisory": "Conseil fiscal",
+    "payroll": "Paie",
+    "business-creation": "Création d'entreprise",
+    "audit": "Audit",
+    "financial-consulting": "Conseil financier",
+    "legal-assistance": "Assistance juridique"
+  }
+}

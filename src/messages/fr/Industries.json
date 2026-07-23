@@ -1,0 +1,15 @@
+{
+  "title": "Secteurs d'activité",
+  "description": "Une expertise sectorielle adaptée aux enjeux spécifiques de votre activité.",
+  "heading": "Secteurs d'activité",
+  "items": {
+    "healthcare": "Santé",
+    "construction": "Construction",
+    "restaurants": "Restauration",
+    "retail": "Commerce",
+    "technology": "Technologie",
+    "ecommerce": "E-commerce",
+    "liberal-professions": "Professions libérales",
+    "associations": "Associations"
+  }
+}

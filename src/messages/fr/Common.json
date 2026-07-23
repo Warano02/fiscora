@@ -1,0 +1,18 @@
+{
+  "Metadata": {
+    "titleTemplate": "%s | Fiscora",
+    "defaultTitle": "Fiscora — Cabinet d'expertise comptable",
+    "description": "Fiscora accompagne dirigeants et entreprises avec une expertise comptable, fiscale et financière rigoureuse, moderne et fiable."
+  },
+  "Nav": {
+    "about": "À propos",
+    "services": "Services",
+    "industries": "Secteurs",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "getStarted": "Prendre contact"
+  },
+  "Footer": {
+    "rightsReserved": "Tous droits réservés."
+  }
+}

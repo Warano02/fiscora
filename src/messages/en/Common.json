@@ -1,0 +1,18 @@
+{
+  "Metadata": {
+    "titleTemplate": "%s | Fiscora",
+    "defaultTitle": "Fiscora — Accounting Firm",
+    "description": "Fiscora supports business owners and companies with rigorous, modern and reliable accounting, tax and financial expertise."
+  },
+  "Nav": {
+    "about": "About",
+    "services": "Services",
+    "industries": "Industries",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "getStarted": "Get in touch"
+  },
+  "Footer": {
+    "rightsReserved": "All rights reserved."
+  }
+}
