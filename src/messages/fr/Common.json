@@ -13,6 +13,13 @@
     "getStarted": "Prendre contact"
   },
   "Footer": {
+    "tagline": "Un cabinet d'expertise comptable moderne, au service de votre performance.",
+    "columns": {
+      "company": "Cabinet",
+      "services": "Services",
+      "industries": "Secteurs",
+      "legal": "Légal"
+    },
     "rightsReserved": "Tous droits réservés."
   }
 }

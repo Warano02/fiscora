@@ -1,5 +1,156 @@
 {
   "title": "Fiscora — Accounting Firm",
   "description": "A modern, precise and reliable accounting firm dedicated to your company's performance.",
-  "heading": "Accounting expertise, reimagined with precision"
+  "Hero": {
+    "eyebrow": "Accounting firm",
+    "heading": "Accounting precision, built for your growth",
+    "subheading": "Fiscora supports business owners and companies with rigorous accounting, tax and financial expertise — so every decision rests on accurate numbers.",
+    "primaryCta": "Book a consultation",
+    "secondaryCta": "Explore our services",
+    "panelLabel": "Net result",
+    "panelCaption": "Real-time tracking of your performance",
+    "panelBadge": "+12.4%",
+    "panelAmount": "€248,500",
+    "panelTeamLabel": "Dedicated team",
+    "panelComplianceLabel": "Compliance",
+    "panelComplianceCaption": "100% up to date",
+    "stats": [
+      { "value": "500+", "label": "Companies supported" },
+      { "value": "15 years", "label": "Of accounting expertise" },
+      { "value": "98%", "label": "Client satisfaction" }
+    ]
+  },
+  "TrustedBy": {
+    "heading": "Trusted by teams like yours",
+    "names": [
+      "Lumina Group",
+      "Vertex Partners",
+      "Atlas Health",
+      "Nordic Retail",
+      "Meridian Firm",
+      "Solaris Tech"
+    ]
+  },
+  "About": {
+    "eyebrow": "About us",
+    "heading": "Rigorous accounting expertise, built for your performance",
+    "body": "Since our founding, we've supported business owners and companies with a rigorous and human approach. Our mission: turn your accounting and tax obligations into a real driver of decision-making.",
+    "points": [
+      "A dedicated point of contact at every step",
+      "Modern tools for real-time tracking",
+      "Uncompromising tax and social compliance"
+    ],
+    "stat": { "value": "15+", "label": "Years of experience" }
+  },
+  "Services": {
+    "eyebrow": "Our services",
+    "heading": "Complete support, at every stage",
+    "subheading": "From bookkeeping to strategic advisory, we cover the full range of your company's financial needs.",
+    "cta": "View all services",
+    "learnMore": "Learn more",
+    "descriptions": {
+      "accounting": "Bookkeeping, review and annual statements, with precise tracking of your activity.",
+      "tax-advisory": "A clear tax strategy to optimize your decisions, fully within the law.",
+      "payroll": "Payslips, social filings and contract management, fully compliant.",
+      "business-creation": "Choosing your legal structure and handling formalities for a smooth start.",
+      "audit": "Independent audit engagements to secure your accounts.",
+      "financial-consulting": "Financial analysis and steering to prepare your strategic decisions.",
+      "legal-assistance": "Legal support to secure your decisions and contracts."
+    }
+  },
+  "WhyChooseUs": {
+    "eyebrow": "Why Fiscora",
+    "heading": "An approach built for demanding business owners",
+    "subheading": "We combine technical rigor with real availability to offer tailored support.",
+    "items": [
+      {
+        "title": "Precision first",
+        "description": "Every figure is checked with the same rigor, whatever the size of your company."
+      },
+      {
+        "title": "One dedicated contact",
+        "description": "You always speak with the same person, who knows your business in depth."
+      },
+      {
+        "title": "Modern tools",
+        "description": "Simple, secure access to your documents and indicators, anytime."
+      },
+      {
+        "title": "Real availability",
+        "description": "We respond quickly, without unnecessary jargon or long delays."
+      }
+    ]
+  },
+  "Industries": {
+    "eyebrow": "Industries",
+    "heading": "Expertise built for your industry",
+    "subheading": "Every industry has its own accounting and tax challenges. We know them.",
+    "cta": "View all industries"
+  },
+  "Numbers": {
+    "heading": "Measurable results",
+    "subheading": "Our clients' trust, translated into numbers.",
+    "stats": [
+      { "value": 500, "suffix": "+", "label": "Companies supported" },
+      { "value": 15, "suffix": " yrs", "label": "Of expertise" },
+      { "value": 98, "suffix": "%", "label": "Client satisfaction" },
+      { "value": 24, "suffix": "h", "label": "Average response time" }
+    ]
+  },
+  "Testimonials": {
+    "eyebrow": "Testimonials",
+    "heading": "What our clients say",
+    "items": [
+      {
+        "quote": "Fiscora transformed how we manage our accounting. We finally have a clear view of our performance, month after month.",
+        "name": "Claire Dubreuil",
+        "role": "Founder",
+        "company": "Lumina Group"
+      },
+      {
+        "quote": "Rigorous support that's always available. Our accountant knows our business as well as we do.",
+        "name": "Julien Marchand",
+        "role": "Managing Director",
+        "company": "Nordic Retail"
+      },
+      {
+        "quote": "Switching to Fiscora let us secure our audits and save valuable time every quarter.",
+        "name": "Sophie Lemoine",
+        "role": "CFO",
+        "company": "Atlas Health"
+      }
+    ]
+  },
+  "LatestArticles": {
+    "eyebrow": "Resources",
+    "heading": "Latest articles",
+    "subheading": "Practical advice to run your company with confidence.",
+    "cta": "View all articles",
+    "items": [
+      {
+        "category": "Tax",
+        "readTime": "5 min",
+        "title": "Optimizing your company's tax strategy in 2026",
+        "excerpt": "The key levers to know for legally reducing your tax burden."
+      },
+      {
+        "category": "Accounting",
+        "readTime": "4 min",
+        "title": "Closing your fiscal year without the stress",
+        "excerpt": "A simple method to prepare your annual statements with confidence."
+      },
+      {
+        "category": "Payroll",
+        "readTime": "6 min",
+        "title": "Payroll 2026: what's changing for employers",
+        "excerpt": "An overview of the regulatory changes to anticipate."
+      }
+    ]
+  },
+  "CTA": {
+    "heading": "Ready to give your accounting the rigor it deserves?",
+    "subheading": "Let's talk about your needs. Our team replies within 24 hours.",
+    "primaryCta": "Book a consultation",
+    "secondaryCta": "Contact us"
+  }
 }

@@ -1,5 +1,156 @@
 {
   "title": "Fiscora — Cabinet d'expertise comptable",
   "description": "Un cabinet d'expertise comptable moderne, précis et fiable, au service de la performance de votre entreprise.",
-  "heading": "L'expertise comptable, réinventée avec précision"
+  "Hero": {
+    "eyebrow": "Cabinet d'expertise comptable",
+    "heading": "La rigueur comptable, pensée pour votre croissance",
+    "subheading": "Fiscora accompagne dirigeants et entreprises avec une expertise comptable, fiscale et financière exigeante — pour que chaque décision repose sur des chiffres justes.",
+    "primaryCta": "Prendre rendez-vous",
+    "secondaryCta": "Découvrir nos services",
+    "panelLabel": "Résultat net",
+    "panelCaption": "Suivi en temps réel de votre performance",
+    "panelBadge": "+12,4%",
+    "panelAmount": "248 500 €",
+    "panelTeamLabel": "Équipe dédiée",
+    "panelComplianceLabel": "Conformité",
+    "panelComplianceCaption": "100 % à jour",
+    "stats": [
+      { "value": "500+", "label": "Entreprises accompagnées" },
+      { "value": "15 ans", "label": "D'expertise comptable" },
+      { "value": "98%", "label": "De clients satisfaits" }
+    ]
+  },
+  "TrustedBy": {
+    "heading": "Ils nous font confiance",
+    "names": [
+      "Lumina Group",
+      "Vertex Partners",
+      "Atlas Santé",
+      "Nordic Retail",
+      "Cabinet Meridian",
+      "Solaris Tech"
+    ]
+  },
+  "About": {
+    "eyebrow": "Notre cabinet",
+    "heading": "Une expertise comptable exigeante, au service de votre performance",
+    "body": "Depuis notre création, nous accompagnons dirigeants et entreprises avec une approche rigoureuse et humaine. Notre mission : transformer vos obligations comptables et fiscales en un véritable levier de pilotage.",
+    "points": [
+      "Un interlocuteur dédié à chaque étape",
+      "Des outils modernes pour un suivi en temps réel",
+      "Une conformité fiscale et sociale sans compromis"
+    ],
+    "stat": { "value": "15+", "label": "Années d'expérience" }
+  },
+  "Services": {
+    "eyebrow": "Nos services",
+    "heading": "Un accompagnement complet, à chaque étape",
+    "subheading": "De la tenue comptable au conseil stratégique, nous couvrons l'ensemble des besoins financiers de votre entreprise.",
+    "cta": "Voir tous les services",
+    "learnMore": "En savoir plus",
+    "descriptions": {
+      "accounting": "Tenue, révision et bilan annuel, avec un suivi précis de votre activité.",
+      "tax-advisory": "Une stratégie fiscale claire pour optimiser vos décisions en toute légalité.",
+      "payroll": "Bulletins de paie, déclarations sociales et gestion des contrats en toute conformité.",
+      "business-creation": "Choix du statut, formalités et accompagnement pour un démarrage serein.",
+      "audit": "Des missions d'audit indépendantes pour sécuriser vos comptes.",
+      "financial-consulting": "Analyse financière et pilotage pour préparer vos décisions stratégiques.",
+      "legal-assistance": "Un appui juridique pour sécuriser vos décisions et vos contrats."
+    }
+  },
+  "WhyChooseUs": {
+    "eyebrow": "Pourquoi Fiscora",
+    "heading": "Une approche pensée pour les dirigeants exigeants",
+    "subheading": "Nous combinons rigueur technique et disponibilité réelle pour vous offrir un accompagnement sur mesure.",
+    "items": [
+      {
+        "title": "Précision avant tout",
+        "description": "Chaque chiffre est vérifié avec la même exigence, quelle que soit la taille de votre entreprise."
+      },
+      {
+        "title": "Un interlocuteur unique",
+        "description": "Vous échangez toujours avec la même personne, qui connaît votre activité en profondeur."
+      },
+      {
+        "title": "Des outils modernes",
+        "description": "Un accès simple et sécurisé à vos documents et indicateurs, à tout moment."
+      },
+      {
+        "title": "Une disponibilité réelle",
+        "description": "Nous répondons rapidement, sans jargon inutile ni délais excessifs."
+      }
+    ]
+  },
+  "Industries": {
+    "eyebrow": "Secteurs d'activité",
+    "heading": "Une expertise adaptée à votre secteur",
+    "subheading": "Chaque secteur a ses propres enjeux comptables et fiscaux. Nous les connaissons.",
+    "cta": "Voir tous les secteurs"
+  },
+  "Numbers": {
+    "heading": "Des résultats mesurables",
+    "subheading": "La confiance de nos clients se traduit en chiffres.",
+    "stats": [
+      { "value": 500, "suffix": "+", "label": "Entreprises accompagnées" },
+      { "value": 15, "suffix": " ans", "label": "D'expertise" },
+      { "value": 98, "suffix": "%", "label": "De clients satisfaits" },
+      { "value": 24, "suffix": "h", "label": "Délai de réponse moyen" }
+    ]
+  },
+  "Testimonials": {
+    "eyebrow": "Témoignages",
+    "heading": "Ce que nos clients en disent",
+    "items": [
+      {
+        "quote": "Fiscora a transformé notre gestion comptable. Nous avons enfin une vision claire de notre performance, mois après mois.",
+        "name": "Claire Dubreuil",
+        "role": "Fondatrice",
+        "company": "Lumina Group"
+      },
+      {
+        "quote": "Un accompagnement rigoureux et toujours disponible. Notre expert-comptable connaît notre activité aussi bien que nous.",
+        "name": "Julien Marchand",
+        "role": "Directeur général",
+        "company": "Nordic Retail"
+      },
+      {
+        "quote": "Le passage à Fiscora nous a permis de sécuriser nos audits et de gagner un temps précieux chaque trimestre.",
+        "name": "Sophie Lemoine",
+        "role": "Directrice financière",
+        "company": "Atlas Santé"
+      }
+    ]
+  },
+  "LatestArticles": {
+    "eyebrow": "Ressources",
+    "heading": "Nos derniers articles",
+    "subheading": "Des conseils pratiques pour piloter votre entreprise avec confiance.",
+    "cta": "Voir tous les articles",
+    "items": [
+      {
+        "category": "Fiscalité",
+        "readTime": "5 min",
+        "title": "Optimiser la fiscalité de votre entreprise en 2026",
+        "excerpt": "Les principaux leviers à connaître pour réduire légalement votre charge fiscale."
+      },
+      {
+        "category": "Comptabilité",
+        "readTime": "4 min",
+        "title": "Clôturer son exercice comptable sans stress",
+        "excerpt": "Une méthode simple pour préparer sereinement votre bilan annuel."
+      },
+      {
+        "category": "Paie",
+        "readTime": "6 min",
+        "title": "Paie 2026 : ce qui change pour les employeurs",
+        "excerpt": "Un tour d'horizon des évolutions réglementaires à anticiper."
+      }
+    ]
+  },
+  "CTA": {
+    "heading": "Prêt à donner à votre comptabilité l'exigence qu'elle mérite ?",
+    "subheading": "Échangeons sur vos besoins. Notre équipe vous répond sous 24h.",
+    "primaryCta": "Prendre rendez-vous",
+    "secondaryCta": "Nous contacter"
+  }
 }

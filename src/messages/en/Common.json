@@ -13,6 +13,13 @@
     "getStarted": "Get in touch"
   },
   "Footer": {
+    "tagline": "A modern accounting firm, dedicated to your performance.",
+    "columns": {
+      "company": "Firm",
+      "services": "Services",
+      "industries": "Industries",
+      "legal": "Legal"
+    },
     "rightsReserved": "All rights reserved."
   }
 }
