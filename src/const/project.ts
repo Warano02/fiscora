@@ -11,6 +11,7 @@ export const project = {
   contact: {
     email: "contact@fiscora.fr",
     phone: "+33 1 23 45 67 89",
+    whatsapp: "+237689895250",
     address: {
       street: "12 Avenue des Champs-Élysées",
       postalCode: "75008",

@@ -2,9 +2,9 @@
 
 Last updated: 2026-07-23
 
-## Status: i18n & design-system foundation in place
+## Status: Site shell, service cards and WhatsApp CTA implemented
 
-Routing, internationalization and the base design system are wired up and build-verified. Pages are still stub content (translated headings only) — no real sections/components have been built yet.
+Routing, internationalization and the base design system are wired up and build-verified. The homepage shell is now functional, the services cards render correctly, and a floating WhatsApp CTA has been added.
 
 ---
 
@@ -22,7 +22,9 @@ Routing, internationalization and the base design system are wired up and build-
 - [x] `src/lib/metadata.ts` shared helper for per-page SEO metadata (title, description, canonical, hreflang alternates)
 - [x] Root layout (`app/[locale]/layout.tsx`): Manrope + Inter fonts, `<html lang>`, `NextIntlClientProvider`, site-wide metadata (title template, OG, Twitter, canonical, hreflang)
 - [x] `src/const/project.ts` created: name, contact, legal info, socials, nav, full services (7) and industries (8) lists — single source of truth, locale-independent
+- [x] `src/const/project.ts` extended with WhatsApp contact info for global CTA
 - [x] `app/globals.css` rewritten with the `Claude.md` color palette, Manrope/Inter font stack, and shadcn/ui theme tokens (light + dark variants)
+- [x] Floating WhatsApp CTA added in `app/[locale]/layout.tsx`
 - [x] shadcn/ui detected and integrated (`base-nova` style, `@base-ui/react`, Lucide icons, `src/components/ui/`, `src/lib/utils.ts`)
 - [x] Verified with `next build` (all `/fr` and `/en` routes statically generated) and `next dev` (locale redirect `/` → `/fr`, translated `<title>` confirmed)
 
@@ -32,7 +34,7 @@ Routing, internationalization and the base design system are wired up and build-
 - [ ] `app/sitemap.ts` / `app/robots.ts`
 - [ ] JSON-LD Schema.org (Organization/ProfessionalService) in root layout, using `project.ts` data
 - [ ] `src/components/` sections/layout structure (`sections/`, `layout/`, `icons/`)
-- [ ] Homepage sections: Hero, Trusted By, About, Services, Why Choose Us, Industries, Numbers, Testimonials, Latest Articles, CTA, Footer
+- [ ] Homepage sections: Trusted By, About, Why Choose Us, Industries, Numbers, Testimonials, Latest Articles, CTA, Footer
 - [ ] Real page content for About, Services (+ remaining 3 sub-pages: business-creation, financial-consulting, legal-assistance), Industries (+ remaining 6 sub-pages: restaurants, retail, technology, ecommerce, liberal-professions, associations), Contact, Privacy
 - [ ] Contact form (React Hook Form + Zod) — not yet installed
 - [ ] GSAP animations (fade in, reveal on scroll, stagger, counters, hover, transitions)
